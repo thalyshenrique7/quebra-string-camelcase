@@ -36,9 +36,9 @@ retornar os erros ao usuário.
   + com Número
   + Tamanho da String
   + String Null
-○ Inicia com Número
-○ Caracter Especial
-○ Número na String
+  + Inicia com Número
+  + Caracter Especial
+  + Número na String
 
 > Autor: Thalys Henrique
 
