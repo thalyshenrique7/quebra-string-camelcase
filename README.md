@@ -1,6 +1,6 @@
-#Relatório TDD
+# Relatório TDD
 
-###Projeto: Quebra de Strings com CamelCase em Java
+### Projeto: Quebra de Strings com CamelCase em Java
 
 Passos realizados:
 1. Criei a classe TesteCamelCase, adicionei o método inicializa para instanciar o objeto
